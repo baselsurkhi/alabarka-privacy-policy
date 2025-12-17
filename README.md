@@ -1,71 +1,68 @@
-alabarka-privacy-policy
+# Al-Baraka Medical Center App
 
-Privacy Policy – Al-Baraka Medical Center Ltd.
+## Privacy Policy
 
-Al-Baraka Medical Center Ltd.
+**Al-Baraka Medical Center Ltd.**  
 (מרכז אלברכה הרפואי בע״מ)
 
-Al-Baraka Medical Centers – We elevate your health with confidence
+Al-Baraka Medical Centers – *We elevate your health with confidence*
 
-Jerusalem – Beit Hanina
-87, opposite Koklin Medical Clinics
+Jerusalem – Beit Hanina  
+87, opposite Koklin Medical Clinics  
 
-IDF Square 120, Kiryat Shmona, Israel
+IDF Square 120, Kiryat Shmona, Israel  
 
 Phone: 02-544-4999
 
-1. Information We Collect
+---
 
-We may collect and process the following data through the application:
+### Information We Collect
+The application may collect the following data:
+- Name (if provided)
+- Phone number
+- Appointment and booking-related information
+- Technical data such as device type, operating system, and application usage data
 
-Name (if provided)
+Sensitive medical information is not collected without user awareness and consent.
 
-Phone number
+---
 
-Appointment and booking-related information
+### How We Use Information
+Collected data is used only to:
+- Manage and organize appointments
+- Operate and improve application functionality
+- Send service-related notifications
+- Improve user experience
 
-Technical data such as device type, operating system, and application usage data
+---
 
-Sensitive medical information is not collected without the user’s awareness and consent.
+### Data Protection
+Reasonable technical and organizational measures are applied to protect data from unauthorized access, misuse, or disclosure.
 
-2. Use of Information
+---
 
-Collected data is used solely for:
+### Data Sharing
+User data is not sold, rented, or shared with third parties, except where legally required or necessary for application functionality.
 
-Managing and organizing appointments
+---
 
-Operating and improving application functionality
+### Cookies and Similar Technologies
+The application may use cookies or similar technologies solely for performance and functionality purposes.
 
-Providing service-related notifications
+---
 
-Enhancing user experience
-
-3. Data Protection
-
-Appropriate technical and organizational measures are implemented to protect data against unauthorized access, alteration, disclosure, or loss.
-
-4. Data Sharing
-
-User data is not sold, rented, or shared with third parties, except where required by law or necessary for application functionality.
-
-5. Cookies and Similar Technologies
-
-The application may use cookies or similar technologies strictly for functionality and performance purposes, without unnecessary personal tracking.
-
-6. User Rights
-
+### User Rights
 Users may:
+- Access their provided data
+- Request correction or deletion of their data
+- Stop using the application at any time
 
-Access their provided data
+---
 
-Request correction or deletion of their data
+### External Services
+The application may include links or integrations with external platforms. The Center is not responsible for their privacy practices.
 
-Discontinue use of the application at any time
+---
 
-7. External Services
-
-The application may include links or integrations with external platforms. The Center is not responsible for the privacy practices of those platforms.
-
-8. Policy Updates
-
-This Privacy Policy may be updated periodically. Continued use of the application constitutes acceptance of any revisions.
+### Policy Updates
+This Privacy Policy may be updated periodically. Continued use of the application indicates acceptance of any changes.
