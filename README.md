@@ -1,68 +1,89 @@
 # Al-Baraka Medical Center App
 
-## Privacy Policy
+A lightweight **WebView-based Android application** that displays the official website of Al-Baraka Medical Center.
 
-**Al-Baraka Medical Center Ltd.**  
-(מרכז אלברכה הרפואי בע״מ)
-
-Al-Baraka Medical Centers – *We elevate your health with confidence*
-
-Jerusalem – Beit Hanina  
-87, opposite Koklin Medical Clinics  
-
-IDF Square 120, Kiryat Shmona, Israel  
-
-Phone: 02-544-4999
+The app is designed to provide users with seamless access to the website through a native Android container.
 
 ---
 
-### Information We Collect
-The application may collect the following data:
-- Name (if provided)
-- Phone number
-- Appointment and booking-related information
-- Technical data such as device type, operating system, and application usage data
+## 🛠 App Type
 
-Sensitive medical information is not collected without user awareness and consent.
+- WebView-based application
+- No native account system
+- No local data storage
 
 ---
 
-### How We Use Information
-Collected data is used only to:
-- Manage and organize appointments
-- Operate and improve application functionality
-- Send service-related notifications
-- Improve user experience
+## 📍 Location Permission
+
+The application requests **location access** for the following purpose:
+
+- Supporting **login security and verification (stamp/validation)** on the website
+- Preventing unauthorized access
+
+### Important Notes:
+- The app does **not store or track location data**
+- Location access is used **temporarily during login**
+- Location data is **not shared with third parties**
+- The app does **not collect precise GPS location**
 
 ---
 
-### Data Protection
-Reasonable technical and organizational measures are applied to protect data from unauthorized access, misuse, or disclosure.
+## 🔐 Data Collection
+
+The application itself does **not collect or process personal data**.
+
+Any information entered by the user is submitted directly on the website displayed inside the WebView and is subject to the website’s own privacy policy.
+
+The app does **not** access:
+- Contacts
+- Camera
+- Microphone
+- Device storage
 
 ---
 
-### Data Sharing
-User data is not sold, rented, or shared with third parties, except where legally required or necessary for application functionality.
+## 🍪 WebView & Cookies
+
+- Website content is loaded using Android WebView
+- Cookies may be used by the website for session management and security
+- The app does not directly manage or control cookies
 
 ---
 
-### Cookies and Similar Technologies
-The application may use cookies or similar technologies solely for performance and functionality purposes.
+## 🔌 Third-Party Services
+
+- No advertising SDKs
+- No tracking SDKs
+- No analytics SDKs
 
 ---
 
-### User Rights
-Users may:
-- Access their provided data
-- Request correction or deletion of their data
-- Stop using the application at any time
+## 🔔 Notifications
+
+- The application does not send push notifications
 
 ---
 
-### External Services
-The application may include links or integrations with external platforms. The Center is not responsible for their privacy practices.
+## ❌ Data Sharing
+
+- User data is **not sold, rented, or shared**
+- No data is shared with third parties
 
 ---
 
-### Policy Updates
-This Privacy Policy may be updated periodically. Continued use of the application indicates acceptance of any changes.
+## 🔄 Updates
+
+This application may be updated periodically to improve stability and compatibility.
+
+---
+
+## 🗑 User Control
+
+Users can stop all data access at any time by uninstalling the application.
+
+---
+
+## 📄 License
+
+This project is provided as-is for internal or private use.
