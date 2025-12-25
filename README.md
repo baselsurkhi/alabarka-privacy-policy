@@ -1,61 +1,62 @@
 # Al-Baraka Medical Center App
 
-A lightweight **WebView-based Android application** that displays the official website of Al-Baraka Medical Center.
+A lightweight **WebView-based Android application** that provides access to the official website of Al-Baraka Medical Center through a native Android container.
 
-The app is designed to provide users with seamless access to the website through a native Android container.
+The application acts as a wrapper for the existing web system and does not provide standalone functionality outside the website.
 
 ---
 
 ## 🛠 App Type
 
 - WebView-based application
-- No native account system
+- No native user account system
 - No local data storage
 
 ---
 
 ## 📍 Location Permission
 
-The application requests **location access** for the following purpose:
+The application may request **location access while the app is in use** for the following purpose:
 
-- Supporting **login security and verification (stamp/validation)** on the website
-- Preventing unauthorized access
+- Supporting **location-based validation during the website login process**, as implemented by the website itself
 
 ### Important Notes:
-- The app does **not store or track location data**
-- Location access is used **temporarily during login**
+- Location access is requested **only when initiated by the website**
+- Location access occurs **only while the app is open and in use**
+- The application does **not track location in the background**
+- The application does **not store location data**
+- The application does **not continuously monitor location**
 - Location data is **not shared with third parties**
-- The app does **not collect precise GPS location**
 
 ---
 
 ## 🔐 Data Collection
 
-The application itself does **not collect or process personal data**.
+The application itself does **not collect, store, or process personal data**.
 
-Any information entered by the user is submitted directly on the website displayed inside the WebView and is subject to the website’s own privacy policy.
+Any data entered by the user is handled directly by the website displayed inside the WebView and is subject to the website’s own privacy policy and security mechanisms.
 
-The app does **not** access:
+The application does **not** directly access:
 - Contacts
 - Camera
 - Microphone
-- Device storage
+- Local device storage
 
 ---
 
 ## 🍪 WebView & Cookies
 
 - Website content is loaded using Android WebView
-- Cookies may be used by the website for session management and security
-- The app does not directly manage or control cookies
+- Cookies may be used by the website for authentication, session management, and security
+- The application does not directly manage, read, or modify cookies
 
 ---
 
 ## 🔌 Third-Party Services
 
 - No advertising SDKs
-- No tracking SDKs
 - No analytics SDKs
+- No tracking SDKs
 
 ---
 
@@ -67,14 +68,14 @@ The app does **not** access:
 
 ## ❌ Data Sharing
 
-- User data is **not sold, rented, or shared**
-- No data is shared with third parties
+- The application does **not sell, rent, or share user data**
+- No user data is shared with third parties
 
 ---
 
 ## 🔄 Updates
 
-This application may be updated periodically to improve stability and compatibility.
+This application may receive updates to improve stability, compatibility, and security.
 
 ---
 
@@ -86,4 +87,4 @@ Users can stop all data access at any time by uninstalling the application.
 
 ## 📄 License
 
-This project is provided as-is for internal or private use.
+This application is provided as-is to facilitate access to the official Al-Baraka Medical Center website.
