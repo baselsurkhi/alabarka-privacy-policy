@@ -1,6 +1,6 @@
-# Al-Baraka Medical Center App
+# Al-Baraka
 
-A lightweight **WebView-based Android application** that provides access to the official website of **Al-Baraka Medical Center** through a native Android container.
+A lightweight **WebView-based Android application** that provides access to the official website of **Al-Baraka** through a native Android container.
 
 The application acts solely as a wrapper for the existing web system and does not provide standalone functionality outside the website.
 
@@ -8,10 +8,7 @@ The application acts solely as a wrapper for the existing web system and does no
 
 ## 🏢 Developer Information
 
-The **Al-Baraka Medical Center App** is developed and published by **Al-Baraka Medical Center**.
-
-> ⚠️ Important:  
-> The developer name above **must exactly match** the Developer name in Google Play Console.
+The **Al-Baraka App** is developed and published by **ShWaEkI**.
 
 ---
 
@@ -96,4 +93,4 @@ Users can stop all data access at any time by uninstalling the application.
 
 ## 📄 License
 
-This application is provided **as-is** to facilitate access to the official **Al-Baraka Medical Center** website.
+This application is provided **as-is** to facilitate access to the official **Al-Baraka** website.
